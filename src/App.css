@@ -1,0 +1,88 @@
+.SignupBox {
+    margin-top: 86px;
+    width: 250px;
+    height: 308px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.SignupForm {
+    margin-top: 22px;
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+}
+
+.SignupForm input {
+    margin-bottom: 30px;
+}
+
+.Header {
+    background-color: #7AA3A1;
+}
+
+.Header__nav {
+    display: flex;
+    justify-content: flex-end;
+    max-width: 1040px;
+    margin: 0 auto;
+}
+
+.Header__nav a {
+    color: black;
+    display: block;
+    margin: 10px;
+}
+
+.loginBox {
+    margin: 0 auto;
+}
+
+.background {
+    position: absolute;
+    background-color: #DFFFFD;
+    width: 100%;
+    height: 680px;
+    display: flex;
+    justify-content: center;
+}
+
+.launchContainer {
+    width: 1080px;
+    display: flex;
+    flex-direction: row;
+    align-items: space-around;
+}
+
+.launchPage {
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.launchContent {
+    background-color: white;
+    width: 600px;
+    height: 250px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.launchText {
+    font-size: 18px;
+    width: 350px;
+}
+
+.userProfileContainer {
+    width: 1080px;
+}
+
+.journalBox {
+    background-color: white;
+    width: 1080px;
+    padding: 20px;
+}
